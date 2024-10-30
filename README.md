@@ -13,5 +13,5 @@ Deliverables:<br>
 2. Create a PowerPoint presentation that includes:<br>
 - A table displaying BUY,SELL,? or NEUTRAL? decision for each individual indicator (not a combined decision).<br>
 - Graphs that visually represent the metrics and the corresponding decisions.<br>
-- A section detailing any assumptions or approaches taken during the assignment, along with your reasoning.<br>
-Please submit the assignment with the subject line “Alphashots.AI Currency Analysis” and include your name in the file names of both the .py and PowerPoint files.<br>
+- A section detailing any assumptions or approaches taken during the assignment, along with your reasoning.
+
